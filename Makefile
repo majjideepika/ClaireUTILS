@@ -1,8 +1,8 @@
 # This Makefile is badly written at best
 # TODO: Rewrite this Makefile to be more general
 
-CC = cc
-CFLAGS = -Wall -g
+anusha
+harshitha
 
 SRC = src/cat.c \
       src/true.c \
@@ -39,6 +39,7 @@ ALL_BIN = cat \
           uname \
 	  id
 
+deepikavijaya
 ECHO = @$(shell which echo)
 
 OUT_DIR = bin
